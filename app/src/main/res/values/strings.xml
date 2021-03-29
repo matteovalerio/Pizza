@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pizza</string>
+    <string name="start_title">Voglia di Pizza?</string>
+    <string name="order_pizzas">Ordina subito con la nuova app!</string>
+    <string name="order_button">ORDINA</string>
+    <string name="shop_info">Pizza da Mario via Nizza 12, Padova</string>
+
+    <string name="choose_flavor">Scegli le pizze</string>
+    <string name="menu">Menu</string>
+    <string name="quantity">Quante?</string>
+    <string name="cancel">Cancella</string>
+    <string name="next">Avanti</string>
+    <string name="choose_pickup_date">Scegli l\'orario</string>
+    <string name="order_summary">Riepilogo ordine</string>
+    <string name="accept">Procedi</string>
+    <string name="send">Invia ordine</string>
+    <string name="pickup_date">Orario di ritiro</string>
+    <string name="subtotal_price">Totale parziale %s</string>
+    <string name="total_price">Totale %s</string>
+    <string name="new_pizza_order">Nuovo ordine</string>
+    <string name="order_details">Ho un ordine per te!\n%1$s \nOre: %2$s
+        \nTotale: %3$s \nNome: %4$s \n\nGrazie!</string>
+    <plurals name="pizzas">
+        <item quantity="one">%d pizza</item>
+        <item quantity="other">%d pizze</item>
+    </plurals>
+
+    <string name="quante">Quante?</string>
+    <string name="margherita">Margherita</string>
+    <string name="prosciutto_funghi">Prosciutto e funghi</string>
+    <string name="diavola">Diavola</string>
+    <string name="patatosa">Patatosa</string>
+    <string name="speck_brie">Speck e brie</string>
+    <string name="quattro_formaggi">Quattro formaggi</string>
+    <string name="capricciosa">Capricciosa</string>
+    <string name="pizza_mario">Pizza Mario</string>
+
+    <string name="marg_price">4</string>
+    <string name="prosc_price">6</string>
+    <string name="diav_price">5.5</string>
+    <string name="pat_price">5.5</string>
+    <string name="speck_price">7</string>
+    <string name="quattro_for_price">8</string>
+    <string name="capr_price">7</string>
+    <string name="mario_price">10</string>
+
+    <string name="menu_list">%1$s €%2$s</string>
+    <string name="name">Nome</string>
+
+</resources>

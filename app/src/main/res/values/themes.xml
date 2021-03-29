@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Pizza" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/red_800</item>
+        <item name="colorPrimaryVariant">@color/red_800_light</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/green_300</item>
+        <item name="colorSecondaryVariant">@color/green_300_light</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Radio buttons. -->
+        <item name="radioButtonStyle">@style/Widget.Pizza.CompoundButton.RadioButton</item>
+        <!-- Text appearance style. -->
+        <item name="textAppearanceSubtitle1">@style/TextAppearance.Pizza.Subtitle1</item>
+    </style>
+</resources>
